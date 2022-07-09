@@ -8,6 +8,7 @@
 # 1.CDLOD
 参考：
 https://github.com/fstrugar/CDLOD
+
 https://github.com/fstrugar/CDLOD/blob/master/cdlod_paper_latest.pdf
 
 
@@ -18,9 +19,12 @@ https://user-images.githubusercontent.com/18366613/178097662-0fba8e11-0dc6-4d11-
 
 参考：
 http://mikejsavage.co.uk/blog/geometry-clipmaps.html
+
 https://hhoppe.com/proj/geomclipmap/
-（视频实例）
+
 https://www.youtube.com/watch?v=XPuHzTOgEcY
+
 https://www.youtube.com/watch?v=0yLsXY7cthU
+
 
 # 3.Geometry CD Clipmap(在Geometry Clipmap基础上引入 CD属性）

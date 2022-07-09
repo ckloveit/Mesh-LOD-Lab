@@ -23,4 +23,4 @@ https://hhoppe.com/proj/geomclipmap/
 https://www.youtube.com/watch?v=XPuHzTOgEcY
 https://www.youtube.com/watch?v=0yLsXY7cthU
 
-#3.Geometry CD Clipmap(在Geometry Clipmap基础上引入 CD属性）
+# 3.Geometry CD Clipmap(在Geometry Clipmap基础上引入 CD属性）
